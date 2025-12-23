@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @Blackbull11
+- 👋 Hi there, I’m Andrea Signoretti
 - 👀 I’m interested in Artificial Intelligence, and Machine Learning, developping experience in agentic systems, LLMs and Neuro-Symbolic AI
 - 🌱 I’m currently in my 2nd year at Ecole Polytechnique learning Applied Mathematics and Computer Science
 - 🚀 I wish to contribute to AI models innovation to better adapt them to real products and needs
