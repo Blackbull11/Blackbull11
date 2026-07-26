@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Andrea Signoretti
-- 👀 I’m interested in Artificial Intelligence, and Machine Learning, developping experience in agentic systems, LLMs and Neuro-Symbolic AI
+- 👀 I’m interested in AI-augmented human decision, developping experience in agentic systems, LLMs and XAI
 - 🌱 I’m currently in my 2nd year at Ecole Polytechnique learning Applied Mathematics and Computer Science
-- 🚀 I wish to contribute to AI models innovation to better adapt them to real products and needs
+- 🚀 I want to contribute to the integration of AI systems into human reasoning and workflows. My goal is to build tools that enhance human awareness rather than replace it, avoiding the traditional "black-box" AI traps.
 - 📫 How to reach me : www.linkedin.com/in/andrea-signoretti
 
 <!---
